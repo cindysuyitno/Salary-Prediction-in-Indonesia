@@ -21,4 +21,4 @@ Python (Pandas, Numpy, BeautifulSoup, Matplotlib, Seaborn, Pickle, Streamlit, Ge
   - Data visualization by matplotlib and geopandas is also shown
 
 # Ilustration of Web App:
-![alt text]([https://github.com/cindysuyitno/Salary-Prediction-in-Indonesia/blob/main/screenshoot1.jpg]
+![alt text](https://github.com/cindysuyitno/Salary-Prediction-in-Indonesia/blob/main/screenshoot1.jpg)

@@ -22,3 +22,6 @@ Python (Pandas, Numpy, BeautifulSoup, Matplotlib, Seaborn, Pickle, Streamlit, Ge
 
 # Ilustration of Web App:
 ![alt text](https://github.com/cindysuyitno/Salary-Prediction-in-Indonesia/blob/main/screenshoot1.jpg)
+![alt text](https://github.com/cindysuyitno/Salary-Prediction-in-Indonesia/blob/main/screenshoot2.jpg)
+![alt text](https://github.com/cindysuyitno/Salary-Prediction-in-Indonesia/blob/main/screenshoot3.jpg)
+![alt text](https://github.com/cindysuyitno/Salary-Prediction-in-Indonesia/blob/main/screenshoot4.jpg)

@@ -25,3 +25,6 @@ Python (Pandas, Numpy, BeautifulSoup, Matplotlib, Seaborn, Pickle, Streamlit, Ge
 ![alt text](https://github.com/cindysuyitno/Salary-Prediction-in-Indonesia/blob/main/screenshoot2.jpg)
 ![alt text](https://github.com/cindysuyitno/Salary-Prediction-in-Indonesia/blob/main/screenshoot3.jpg)
 ![alt text](https://github.com/cindysuyitno/Salary-Prediction-in-Indonesia/blob/main/screenshoot4.jpg)
+
+#Comments and Suggestion from Author
+The machine learning model needs more data since job category that is inputted has a lot of categories, mostly in province other than Jakarta.

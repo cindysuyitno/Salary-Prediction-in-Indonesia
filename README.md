@@ -1,5 +1,5 @@
 # Data Science Project: Salary Prediction in Indonesia
-This is the salary prediction model based on Indonesia, with the predictor of job name, province, and years of experience. The aim of this project is to make business able to determine salary of their employee with the basis of common salaries provided with other businesses in Indonesia. The alternative aim is for employees-to-be to determine their desired salary before going into their career.
+This is the salary prediction model based in Indonesia, with the predictor of job name, province, and years of experience. This project aims to make businesses able to determine the salary of their employees based on common salaries provided by other businesses in Indonesia. The alternative aim is for employees-to-be to determine their desired salary before going into their career.
 
 # Technologies used
 Python (Pandas, Numpy, BeautifulSoup, Matplotlib, Seaborn, Pickle, Streamlit, Geopandas), Google Colab

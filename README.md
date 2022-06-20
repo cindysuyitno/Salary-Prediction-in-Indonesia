@@ -2,7 +2,7 @@
 This is the salary prediction model based in Indonesia, with the predictor of job name, province, and years of experience. This project aims to make businesses able to determine the salary of their employees based on common salaries provided by other businesses in Indonesia. The alternative aim is for employees-to-be to determine their desired salary before going into their career.
 
 # Technologies used
-Python (Pandas, Numpy, BeautifulSoup, Matplotlib, Seaborn, Pickle, Streamlit, Geopandas), Google Colab
+Python (Pandas, Numpy, BeautifulSoup, Matplotlib, Seaborn, Pickle, Streamlit, Geopandas), Google Colab, Chrome Driver
 
 ## Table of Content:
 ### Data Collection:

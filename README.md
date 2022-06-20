@@ -4,19 +4,19 @@ This is the salary prediction model based on Indonesia, with the predictor of jo
 # Technologies used
 Python (Pandas, Numpy, BeautifulSoup, Matplotlib, Seaborn, Pickle, Streamlit, Geopandas), Google Colab
 
-##Table of Content:
-###Data Collection:
+## Table of Content:
+### Data Collection:
   - Sources: Karir.com and Glints jobsite 
   - Web scrapping with more than 9000 data
   - Contains job title, city, salary range, and years of experience range
-###Data Cleaning:
+### Data Cleaning:
   - Assigning data to suitable columns
   - Removing null value
-###Data Modelling:
+### Data Modelling:
   - Exploratory Data Analysis: including data visualization to determine which value will be used
-  - Regression model fitted: Gradient Boosting Regressor, K Neighbors Regressor, Extra Trees Regressor, Random Forest Regressor, Decision Tree Regressor, Linear  ###Regression, Lasso, Ridge
+  - Regression model fitted: Gradient Boosting Regressor, K Neighbors Regressor, Extra Trees Regressor, Random Forest Regressor, Decision Tree Regressor, Linear Regression, Lasso, Ridge
   - Three best models will be tuned with the estimator hyperparameters
-###Web app with Streamlit:
+### Web app with Streamlit:
   - The salary prediction will be put in a web app with streamlit
   - Data visualization by matplotlib and geopandas is also shown
 
